@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "燦々 - Sansan",
+  "base_track": "燦々",
   "base_artist": "Afterglow",
-  "createdAt": "2026-02-26T00:24:15.565332Z",
+  "createdAt": "2026-03-30T15:29:03.269981Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -39,58 +39,74 @@
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "燦々",
-      "artist": "カネコアヤノ",
+      "title": "憂、燦々",
+      "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/05_燦々_カネコアヤノ.lrc"
+      "path": "select/05_憂、燦々_Yorushika.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "憂、燦々 - Yu, Sansan",
+      "title": "憂、燦々",
       "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/06_憂、燦々_-_Yu,_Sansan_Yorushika.lrc"
+      "path": "select/06_憂、燦々_Yorushika.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "憂、燦々 - Yu,Sansan",
-      "artist": "CreepHyp",
+      "title": "憂、燦々",
+      "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/07_憂、燦々_-_Yu,Sansan_CreepHyp.lrc"
+      "path": "select/07_憂、燦々_ヨルシカ.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "憂、燦々",
-      "artist": "Yorushika",
+      "title": "燦々",
+      "artist": "カネコアヤノ",
       "has_synced": true,
-      "path": "select/08_憂、燦々_Yorushika.lrc"
+      "path": "select/08_燦々_カネコアヤノ.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
       "title": "憂、燦々",
-      "artist": "Yorushika",
+      "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/09_憂、燦々_Yorushika.lrc"
+      "path": "select/09_憂、燦々_ヨルシカ.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "憂、燦々",
-      "artist": "ヨルシカ",
+      "title": "憂、燦々 - Yu, Sansan",
+      "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/10_憂、燦々_ヨルシカ.lrc"
+      "path": "select/10_憂、燦々_-_Yu,_Sansan_Yorushika.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
+      "title": "憂、燦々 - Yu,Sansan",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/11_憂、燦々_-_Yu,Sansan_CreepHyp.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
       "title": "憂、燦々",
       "artist": "クリープハイプ",
       "has_synced": true,
-      "path": "select/11_憂、燦々_クリープハイプ.lrc"
+      "path": "select/12_憂、燦々_クリープハイプ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "燦々",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/13_燦々_Afterglow.lrc"
     },
     {
       "id": "petitlyrics_1",
